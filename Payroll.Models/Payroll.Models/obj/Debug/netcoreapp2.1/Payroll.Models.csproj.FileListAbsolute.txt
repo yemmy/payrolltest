@@ -1,0 +1,9 @@
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\bin\Debug\netcoreapp2.1\Payroll.Models.deps.json
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\bin\Debug\netcoreapp2.1\Payroll.Models.dll
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\bin\Debug\netcoreapp2.1\Payroll.Models.pdb
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\obj\Debug\netcoreapp2.1\Payroll.Models.csprojAssemblyReference.cache
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\obj\Debug\netcoreapp2.1\Payroll.Models.csproj.CoreCompileInputs.cache
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\obj\Debug\netcoreapp2.1\Payroll.Models.AssemblyInfoInputs.cache
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\obj\Debug\netcoreapp2.1\Payroll.Models.AssemblyInfo.cs
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\obj\Debug\netcoreapp2.1\Payroll.Models.dll
+C:\APPDEV\DOTNET\payrolltest\Payroll.Models\Payroll.Models\obj\Debug\netcoreapp2.1\Payroll.Models.pdb
