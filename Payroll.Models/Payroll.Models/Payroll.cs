@@ -11,6 +11,7 @@ namespace Payroll.Models
         public string Description { get; set; }
         public string DeductionOrAddition { get; set; }
         public string TaxCategory { get; set; }
+        public string ItemName { get; set; }
         public decimal Amount { get; set; }
     }
 }
