@@ -17,7 +17,7 @@ namespace Payroll.Services
             return new PayrollModel();
         }
 
-        public int Add(PayrollModel staff)
+        public int Add(PayrollModel stafff)
         {
             return 0;
         }
